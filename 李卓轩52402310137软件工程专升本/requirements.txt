@@ -1,0 +1,6 @@
+# Django项目依赖
+Django==4.2.27
+djangorestframework==3.15.2
+djangorestframework-simplejwt==5.3.1
+mysqlclient==2.2.0
+redis==5.0.1
